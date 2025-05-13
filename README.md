@@ -1,6 +1,6 @@
-# 🦟 Dengue Analytics Dashboard – Dhaka Region
+# 🦟 Dengue Outbreak Analytics Dashboard 📊
 
-📊 **Project Title:** Interactive Dengue Analytics Dashboard in Excel  
+**Project Title:** Interactive Dengue Analytics Dashboard in Excel  
 📍 **Region:** Dhaka, Bangladesh  
 🗂️ **Files Included:**
 - `DengueAnalyticsDashboard.xlsx` – Fully interactive Excel dashboard
@@ -15,8 +15,9 @@ This project uses real survey data of dengue infection cases from Dhaka to build
 - Infection stage classification (Acute, Positive, Secondary etc. using NS1, IgM, IgG).
 - Distribution of dengue cases by Area-type & house-type.
 - Infection case analysis by Age group & gender.
-- Pivot-table driven charts.
-- Statistical analysis (Descriptive Statistics).
+- Pivot-table driven Charts.
+- Statistical Analysis (Descriptive Statistics).
+- KPIs for decision making.
 
 ## 📌 Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Formulas)
