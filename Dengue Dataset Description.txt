@@ -1,0 +1,24 @@
+Dengue Dataset of Bangladesh
+
+
+Key Features:
+Gender: Gender of the survey respondent.
+
+Age: Age of the survey respondent.
+
+NS1: NS1 test's data positive as 1 negative as 0.
+
+IgG: IgG data positive as 1 negative as 0.
+
+IgM: IgM data positive as 1 negative as 0.
+
+Area: The area within the Dhaka region where the respondent resides.
+
+Area Type: Classification of the area as "Developed" or "Undeveloped."
+
+House Type: The type of housing in the area, e.g., "Building," "Tin-Shed," or "Others."
+
+District: The specific district within Dhaka.
+
+Outcome: Outcome variable indicating the presence (1) or absence (0) of Dengue cases reported.
+
