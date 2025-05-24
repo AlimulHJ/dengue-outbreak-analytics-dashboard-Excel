@@ -1,6 +1,6 @@
-# 🦟 Dengue Outbreak Analytics Dashboard 📊
+# 🦟 Data Analysis & Interactive Dashboard 📊
 
-**Project Title:** Interactive Dengue Analytics Dashboard in Excel  
+**Project Title:** Dengue Outbreak Data Analysis & Interactive Dashboard in Excel
 📍 **Region:** Dhaka, Bangladesh  
 🗂️ **Files Included:**
 - `DengueAnalyticsDashboard.xlsx` – Fully interactive Excel dashboard
@@ -9,22 +9,29 @@
 - `README.md` – Project overview and documentation
 
 ## 🔍 Overview
-This project uses real survey data of dengue infection cases from Dhaka to build a comprehensive Excel dashboard. It combines pivot tables, interactive charts, and statistical analysis for insights. It features an interactive Excel dashboard to visualize patterns, identify high-risk areas, age group, area-housing type and recommend targeted public health actions.
+Real survey data of dengue infection cases from the Dhaka region of Bangladesh is used for Data Analysis and Dashboard building. First, Exploratory Data Analysis (EDA) is performed to understand the data, anomaly detection etc. This project includes PivotTable, Chart, Statistical Analysis and Dashboard. Using the interactive dashboard, public health actions have been recommended.
+
+## 📅 About the Dataset
+Data from a 1000-person survey in Dhaka, Bangladesh, including NS1, IgG, IgM markers, demographics, and outcomes.
+
+## 📌 Tools/Feature used from Excel
+- Table, Filter, Formulas, Pivot Tables, Slicer, Charts (Doughnut, Bar & Column), Statistical Analysis (Descriptive Statistics)
 
 ## 📌 Key Features
 - Infection stage classification (Acute, Positive, Secondary etc. using NS1, IgM, IgG).
-- Distribution of dengue cases by Area-type & house-type.
+- Distribution of Dengue cases by Area-type & house-type.
 - Infection case analysis by Age group & gender.
 - Pivot-table driven Charts.
-- Statistical Analysis (Descriptive Statistics).
+- Statistical Analysis.
 - KPIs for decision making.
+- Created interactive Excel dashboard with filtering.
+- Developed actionable insights for public health intervention.
 
-## 📌 Tools Used
-- Microsoft Excel (Pivot Tables, Charts, Formulas)
-- Basic statistical analysis (Descriptive Statistics)
-
-## 🧠 About the Dataset
-Data from a 1000-person survey in Dhaka, Bangladesh, including NS1, IgG, IgM markers, demographics, and outcomes.
+## 📌 Key Findings
+→ Identified geographic hotspots requiring immediate intervention.
+→ Indentified the most effected age groups.
+→ Discovered most effected segments by comparing House & Area type.
+→ Created 5 actionable recommendations for officials such as City Corporation or Health Ministry.
 
 ## 🖼️ Dashboard Preview
 ![Dashboard Screenshot](Dashboard-ss.png)
