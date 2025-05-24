@@ -28,10 +28,10 @@ Data from a 1000-person survey in Dhaka, Bangladesh, including NS1, IgG, IgM mar
 - Developed actionable insights for public health intervention.
 
 ## 📌 Key Findings
-→ Identified geographic hotspots requiring immediate intervention.
-→ Indentified the most effected age groups.
-→ Discovered most effected segments by comparing House & Area type.
-→ Created 5 actionable recommendations for officials such as City Corporation or Health Ministry.
+- Identified geographic hotspots requiring immediate intervention.
+- Indentified the most effected age groups.
+- Discovered most effected segments by comparing House & Area type.
+- Created 5 actionable recommendations for officials such as City Corporation or Health Ministry.
 
 ## 🖼️ Dashboard Preview
 ![Dashboard Screenshot](Dashboard-ss.png)
